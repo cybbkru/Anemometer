@@ -3,6 +3,7 @@
 3; Hall sensor SS441A;				1 pcs; to buy;
 4; Screw M1.2 L=3.5mm;				3 pcs; to buy;
 5; Resistor 10k;				1 pcs; to buy;
+6; Magnet 3.5 x 3.5 x 0.7 mm; 1 pcs; to buy or to magnetize iron piece;
 
 6; Cup;						3 pcs; to print;
 7; Base;					1 pcs; to print;
