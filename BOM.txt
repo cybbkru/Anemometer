@@ -1,3 +1,4 @@
+# BOM
 Bearing D1=2mm D2=5mm h=2.5mm;| 2 pcs;| to buy;
 Steel pin D=2mm L=23mm (drill d=2mm);|	1 pcs;| to buy;	
 Hall sensor SS441A;|  1 pcs;| to buy;
