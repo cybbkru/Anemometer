@@ -27,9 +27,9 @@ Indoor use only.
 2. Redraw design for outdoor use (enlarge clearances and parts overlays to prevent raindrops infiltration).
 
 # TIPS
-* Use eDrawings free STEP viewer to view 3D model of assembled device (anemometer assembly.STEP)
+* Using eDrawings free STEP viewer to explore 3D model of assembled device (anemometer assembly.STEP) is more convenient than embedded STL-viewer of GitHUB.
 * Test the magnet and SS441A BEFORE gluing magnet to printed part - this sensor is magnet direction sensitive! 
-* SS441A is documented to work 3.8v and higher, using at 3.3 v not good, but in my case 2 sensors work fine.
+* SS441A is documented to work 3.8v and higher, using at 3.3 v is not good, but in my case 2 sensors work fine.
 * STL files are ready to print.
 * SolidWorks 2021 required to edit models.
 
