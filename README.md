@@ -1,4 +1,6 @@
-# Anemometer
+# Anemometer 
+!["Main picture"](https://github.com/cybbkru/Anemometer/blob/main/Anemometer.jpg)
+
 In my home ventilation unit this Anemometer helps to clear filters in time ( before air flow becomes too low). 
 
 Hall-sensor and magnet are used to generate impulses according to rotation rate of Anemometer.
