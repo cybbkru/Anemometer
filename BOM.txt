@@ -1,12 +1,12 @@
-1; Bearing D1=2mm D2=5mm h=2.5mm;		2 pcs; to buy;
-2; Steel pin D=2mm L=23mm (drill d=2mm);	1 pcs; to buy;	
-3; Hall sensor SS441A;				1 pcs; to buy;
-4; Screw M1.2 L=3.5mm;				3 pcs; to buy;
-5; Resistor 10k;				1 pcs; to buy;
-6; Magnet 3.5 x 3.5 x 0.7 mm; 1 pcs; to buy or to magnetize iron piece;
+Bearing D1=2mm D2=5mm h=2.5mm;		2 pcs; to buy;
+Steel pin D=2mm L=23mm (drill d=2mm);	1 pcs; to buy;	
+Hall sensor SS441A;				1 pcs; to buy;
+Screw M1.2 L=3.5mm;				3 pcs; to buy;
+Resistor 10k;				1 pcs; to buy;
+Magnet 3.5 x 3.5 x 0.7 mm; 1 pcs; to buy or to magnetize iron piece;
 
-6; Cup;						3 pcs; to print;
-7; Base;					1 pcs; to print;
-8; Rayholder;					1 pcs; to print;
-9; Rotor;					1 pcs; to print;
-10; Lock;					1 pcs; to print;
+Cup;						3 pcs; to print;
+Base;					1 pcs; to print;
+Rayholder;					1 pcs; to print;
+Rotor;					1 pcs; to print;
+Lock;					1 pcs; to print;
